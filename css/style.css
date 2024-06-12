@@ -1,0 +1,14 @@
+body{
+    background-color: #24353f;
+    font-family: "Titillium Web", sans-serif;
+}
+.group{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.input-group input::placeholder{
+color: #797979;
+}
+nav.navbar{
+    background-color: #24353f;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
